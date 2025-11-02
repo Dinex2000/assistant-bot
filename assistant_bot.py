@@ -1,7 +1,6 @@
 import telebot
 
 TOKEN = 'your code'
-jsonf = 'main.json'
 
 bot = telebot.TeleBot(TOKEN)
 
